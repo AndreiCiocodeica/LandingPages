@@ -1,6 +1,6 @@
 # Feel The Power
 
-## This is a landing page example.
+## This is a landing page example -AWESOME DESIGN!!
 
 ### Website is created with HTML and Tailwind framework.
 
