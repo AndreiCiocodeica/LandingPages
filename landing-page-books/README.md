@@ -2,7 +2,7 @@
 
 ## This is a landing page example.
 
-### Website is created with HTML5/CSS3/JS & Bootstrap.
+### Website is created with HTML5/CSS3/jQuery & Bootstrap.
 
 <div>
     <h4>What concepts you can find:</h4>
